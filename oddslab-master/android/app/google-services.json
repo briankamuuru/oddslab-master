@@ -1,0 +1,447 @@
+{
+  "project_info": {
+    "project_number": "122727264879",
+    "project_id": "messi-1f8ca",
+    "storage_bucket": "messi-1f8ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:4cf67fde7f041ac048d39a",
+        "android_client_info": {
+          "package_name": "com.ballers.newest_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:29431ef25b7a165148d39a",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:08e184b01827404b48d39a",
+        "android_client_info": {
+          "package_name": "com.example.betteradmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:6d52c859119874ba48d39a",
+        "android_client_info": {
+          "package_name": "com.example.insta_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:75d375e3194335bc48d39a",
+        "android_client_info": {
+          "package_name": "com.example.kalifadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:6d6071a9cae355d548d39a",
+        "android_client_info": {
+          "package_name": "com.example.lexadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:181a7153c7b8caa848d39a",
+        "android_client_info": {
+          "package_name": "com.example.mavadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:8f1f8715da53985d48d39a",
+        "android_client_info": {
+          "package_name": "com.example.speedadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:22436bcd64f7bfd348d39a",
+        "android_client_info": {
+          "package_name": "com.pro.baller.speedster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:1f902617fa6d6e0248d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.betbetter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:fc363fef179c6acd48d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.betfact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:a3eebb63bda1a38548d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.betkalifa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:cb74938669d4b70048d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.bettsweber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:5daac2292f021a6e48d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.golden_draws"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:fcc08f6f530f0f8548d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.golden_htft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:99b3dc01e8c5ecca48d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.instanttips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:670a370828ca6f0248d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.lexus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:7417d8b0cc918bb648d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.magic_score"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:a4da579fd4403e7448d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.magicscore_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:3af8e57cea9b361a48d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.mavix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:1b34cf66914e99f448d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.mavix_draws"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:cfac1a69cf9f5a9348d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.oddslab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122727264879:android:04dff92476004a7c48d39a",
+        "android_client_info": {
+          "package_name": "com.pro.ballers.over35"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVIcm2203vaD-MCXlKd8NLsxjQSaU-CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

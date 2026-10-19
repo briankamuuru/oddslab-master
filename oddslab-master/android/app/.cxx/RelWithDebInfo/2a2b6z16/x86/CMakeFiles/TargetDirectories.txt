@@ -1,0 +1,2 @@
+/home/vickie/gigs/messi/mkuu/oddslab/android/app/.cxx/RelWithDebInfo/2a2b6z16/x86/CMakeFiles/edit_cache.dir
+/home/vickie/gigs/messi/mkuu/oddslab/android/app/.cxx/RelWithDebInfo/2a2b6z16/x86/CMakeFiles/rebuild_cache.dir
